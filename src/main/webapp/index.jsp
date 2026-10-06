@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!-Jenkins Webhook</h2>
+<h2>Hello World!-Jenkins Webhooks</h2>
 </body>
 </html>
